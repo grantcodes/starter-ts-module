@@ -1,7 +1,8 @@
-import test from 'ava'
+import test from 'node:test'
+import assert from 'node:assert'
 
 import { example } from '../lib/example'
 
-test('example', t => {
-  t.is(example('Grant'), 'Hello Grant 👋')
+test('example', (t) => {
+  assert.strictEqual(example('Grant'), 'Hello Grant 👋')
 })
