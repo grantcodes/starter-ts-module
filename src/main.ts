@@ -1,3 +1,3 @@
-import { example } from './lib/example'
+import { example } from "./lib/example";
 
-export { example }
+export { example };

@@ -1,5 +1,5 @@
 const example = (name: string): string => {
-  return `Hello ${name} 👋`
-}
+  return `Hello ${name} 👋`;
+};
 
-export { example }
+export { example };
