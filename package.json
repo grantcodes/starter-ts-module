@@ -1,5 +1,5 @@
 {
-  "name": "@grantcodes/start-ts-module",
+  "name": "@grantcodes/starter-ts-module",
   "version": "1.0.0",
   "description": "A starter package for creating a TypeScript module",
   "type": "module",
@@ -25,14 +25,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/grantcodes/start-ts-module.git"
+    "url": "git+https://github.com/grantcodes/starter-ts-module.git"
   },
   "author": "grantcodes",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/grantcodes/start-ts-module/issues"
+    "url": "https://github.com/grantcodes/starter-ts-module/issues"
   },
-  "homepage": "https://github.com/grantcodes/start-ts-module#readme",
+  "homepage": "https://github.com/grantcodes/starter-ts-module#readme",
   "engines": {
     "node": ">=14"
   },
