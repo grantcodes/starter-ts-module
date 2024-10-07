@@ -1,6 +1,6 @@
 {
   "name": "@grantcodes/starter-ts-module",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A starter package for creating a TypeScript module",
   "type": "module",
   "main": "dist/main.cjs",
